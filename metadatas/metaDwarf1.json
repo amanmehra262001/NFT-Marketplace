@@ -1,0 +1,9 @@
+{
+    "name": "Dwarf Sword",
+    "description": "A dwarf holding sword in pride.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmXhbthTyqAmMugjfzNjfAyAPiD1h8dp1xy2ESjSCUt53e/Dwarf_1.png",
+    "attributes": [{
+        "Strength": 100,
+        "HealthPoints": 100
+    }]
+}
